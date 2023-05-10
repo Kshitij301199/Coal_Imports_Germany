@@ -1,3 +1,8 @@
+https://www-genesis.destatis.de/genesis/online?operation=themes&levelindex=0&levelid=1683714453600&code=43#abreadcrumb
+
+Economic Sectors >> Energy and Water Supply >> 
+435 Other specialised stat. on energy and water supply >> Survey of Coal Imports
+
 I decided to choose the data with regards to the import of coal from abroad to 
 germany as the central dataset for my individual project. I sense there is a 
 scope for thorough investigation and coal imports is a major source of energy 
