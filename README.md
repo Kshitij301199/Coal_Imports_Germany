@@ -57,7 +57,7 @@ If there are no errors, the installation was successful.
 
 - `docs/`: The `docs` directory holds project documentation, including:
   - `Analysis.ipynb`: A Jupyter Notebook file for data analysis.
-  - `Report.ipynb`: A Jupyter Notebook file for generating project reports.
+  - `Report.ipynb`: A Jupyter Notebook file for the project reports.
   - `cleaning.py`: A Python script for data cleaning.
   - `description.txt`: A text file providing additional project description or documentation.
 
