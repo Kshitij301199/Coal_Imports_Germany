@@ -50,7 +50,7 @@ If there are no errors, the installation was successful.
 - `README.md`: The README file provides an overview and instructions for your project.
 
 - `data/`: This directory contains various data files used in your project, including:
-  - `43511-0002-USPLD1_$F.xlsx`: An Excel file containing data.
+  - `43511-0002-USPLD1_$F.xlsx`: An Excel file containing the original data.
   - `CleanedData.csv`: A CSV file containing cleaned data.
   - `Pivot_Tables.xlsx`: An Excel file containing pivot tables.
   - `Sorted_Workbook.xlsx`: An Excel file with sorted data.
