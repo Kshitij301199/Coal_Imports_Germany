@@ -50,20 +50,20 @@ If there are no errors, the installation was successful.
 - `README.md`: The README file provides an overview and instructions for your project.
 
 - `data/`: This directory contains various data files used in your project, including:
-  - `43511-0002-USPLD1_$F.xlsx`: An Excel file containing the original data.
+  - `43511-0002-USPLD1_$F.xlsx`: An Excel file containing data.
   - `CleanedData.csv`: A CSV file containing cleaned data.
-  - `Pivot_Tables.xlsx`: An Excel file containing pivot tables used for visalisations.
-  - `Sorted_Workbook.xlsx`: An Excel file with sorted data usable for data analysis.
+  - `Pivot_Tables.xlsx`: An Excel file containing pivot tables.
+  - `Sorted_Workbook.xlsx`: An Excel file with sorted data.
 
 - `docs/`: The `docs` directory holds project documentation, including:
   - `Analysis.ipynb`: A Jupyter Notebook file for data analysis.
+  - `Report.ipynb`: A Jupyter Notebook file for generating project reports.
   - `cleaning.py`: A Python script for data cleaning.
   - `description.txt`: A text file providing additional project description or documentation.
 
 - `images/`: This directory contains various images related to your project, including:
   - `Country_of_Origin_Comparison.jpg`: An image comparing the country of origin.
   - `Import_hardcoal_yearly.jpg`: An image showing yearly import of hard coal.
-  - `Imports_hardcoal_tonnes_compared.jpg`: An image comparing imports of hard coal in tonnes.
-  - `Import_hardcoal_tonnes_yearly.jpg`: An image showing yearly imports of hard coal in tonnes.
-  - `Imports_hardcoal_eurospert.jpg`: An image showing imports of hard coal in euros per tonne.
-
+  - `Imports_hardcoal_eurospert_month.jpg`: An image showing imports of hard coal in euros per tonne.
+  - `Country_of_Origin_TotalEuros.jpg`: An image displaying the total euros based on country of origin.
+  - `Imports_hardcoal_tonnes_compared_months.jpg`: An image comparing imports of hard coal in tonnes.
